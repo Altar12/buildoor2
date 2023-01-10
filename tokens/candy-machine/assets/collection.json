@@ -1,0 +1,15 @@
+{
+    "name": "Builders' Collection",
+    "symbol": "BLDR",
+    "description": "Collection of 5 awesome builders, ready to build and rock.",
+    "image": "collection.png",
+    "attributes": [],
+    "properties": {
+      "files": [
+        {
+          "uri": "collection.png",
+          "type": "image/png"
+        }
+      ]
+    }
+  }

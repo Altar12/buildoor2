@@ -1,0 +1,28 @@
+{
+    "name": "Builder #1",
+    "symbol": "BLDR",
+    "description": "The builders keep building",
+    "image": "0.png",
+    "attributes": [
+        {
+            "trait_type": "color",
+            "value": "green"
+        },
+        {
+            "trait_type": "hair",
+            "value": "bun"
+        },
+        {
+            "trait_type": "expression",
+            "value": "smile"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "0.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
